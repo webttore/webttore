@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://github.com/webbtore/webbtore/blob/main/web.jpg"  width="90%">
+[<img src="https://github.com/webbtore/webbtore/blob/main/web.jpg"  width="90%">](https://github.com/user-attachments/assets/76357951-d637-43ac-a2c7-899e2273ccb0)
 
 <p align="center">
   ٩ ⊹ ━━━ ୧୨ ━━━ ⊹ ۶
